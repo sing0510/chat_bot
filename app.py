@@ -46,3 +46,5 @@ def handle_message(event):
 
 if __name__ == "__main__":
     app.run()
+
+## "git push heroku HEAD:master" for pushing the file to heroku
